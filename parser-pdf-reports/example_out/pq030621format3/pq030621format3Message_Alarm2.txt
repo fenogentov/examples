@@ -1,0 +1,1345 @@
+06/03/2021 14:54:39 Operater 1003 Hand wheel spin out alarm  
+06/03/2021 14:54:39 Operater 1005 Door and window open alarm  
+06/03/2021 14:54:40 Operater 1006 Air pressure alarm  
+06/03/2021 15:11:51 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:12:22 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 15:17:12 Administrator 3037 active reset button  
+06/03/2021 15:17:12 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:17:12 Administrator 1005 Door and window open alarm  
+06/03/2021 15:17:12 Administrator 1006 Air pressure alarm  
+06/03/2021 15:17:12 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:17:12 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 15:17:12 Administrator 3037 active reset button  
+06/03/2021 15:17:12 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:17:12 Administrator 1005 Door and window open alarm  
+06/03/2021 15:17:12 Administrator 1006 Air pressure alarm  
+06/03/2021 15:17:12 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:17:12 Administrator 3037 active reset button  
+06/03/2021 15:17:12 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 15:17:12 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:17:13 Administrator 1005 Door and window open alarm  
+06/03/2021 15:17:13 Administrator 1006 Air pressure alarm  
+06/03/2021 15:17:13 Administrator 3037 active reset button  
+06/03/2021 15:17:13 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:17:13 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 15:17:13 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:17:13 Administrator 1005 Door and window open alarm  
+06/03/2021 15:17:13 Administrator 1006 Air pressure alarm  
+06/03/2021 15:17:13 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:17:13 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 15:50:54 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:50:54 Administrator 1005 Door and window open alarm  
+06/03/2021 15:50:55 Administrator 1006 Air pressure alarm  
+06/03/2021 15:50:55 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:50:55 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 15:50:55 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:06 Administrator 3037 active reset button  
+06/03/2021 15:51:06 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:06 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:06 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:51:06 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:06 Administrator 3037 active reset button  
+06/03/2021 15:51:06 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:06 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:06 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:51:06 Administrator 3037 active reset button  
+06/03/2021 15:51:06 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:06 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:06 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:07 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:51:07 Administrator 3037 active reset button  
+06/03/2021 15:51:07 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:07 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:07 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:07 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:51:07 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:07 Administrator 3037 active reset button  
+06/03/2021 15:51:07 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:07 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:08 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:51:08 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:15 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:15 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:15 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:15 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:15 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:15 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 15:51:15 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:16 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 15:51:16 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:16 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:18 Administrator 3037 active reset button  
+06/03/2021 15:51:18 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:18 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:18 Administrator 3037 active reset button  
+06/03/2021 15:51:18 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:18 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:19 Administrator 3037 active reset button  
+06/03/2021 15:51:19 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:19 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:19 Administrator 3034 active jog button  
+06/03/2021 15:51:20 Administrator 3037 active reset button  
+06/03/2021 15:51:20 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:20 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:20 Administrator 3037 active reset button  
+06/03/2021 15:51:20 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:20 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:21 Administrator 3037 active reset button  
+06/03/2021 15:51:21 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:21 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:22 Administrator 3037 active reset button  
+06/03/2021 15:51:22 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:22 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:23 Administrator 3037 active reset button  
+06/03/2021 15:51:23 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:23 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:30 Administrator 3037 active reset button  
+06/03/2021 15:51:30 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:31 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:31 Administrator 3037 active reset button  
+06/03/2021 15:51:31 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:31 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:43 Administrator 3037 active reset button  
+06/03/2021 15:51:43 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:43 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:43 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:44 Administrator 1007 Inverter fault  
+06/03/2021 15:51:44 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:44 Administrator 3037 active reset button  
+06/03/2021 15:51:44 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:44 Administrator 1007 Inverter fault  
+06/03/2021 15:51:44 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:45 Administrator 3037 active reset button  
+06/03/2021 15:51:45 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:45 Administrator 1007 Inverter fault  
+06/03/2021 15:51:45 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:46 Administrator 3037 active reset button  
+06/03/2021 15:51:46 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:46 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:48 Administrator 3037 active reset button  
+06/03/2021 15:51:48 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:48 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:48 Administrator 3037 active reset button  
+06/03/2021 15:51:48 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:48 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:49 Administrator 3037 active reset button  
+06/03/2021 15:51:49 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:49 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:54 Administrator 3037 active reset button  
+06/03/2021 15:51:54 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:54 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:55 Administrator 3037 active reset button  
+06/03/2021 15:51:55 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:55 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:56 Administrator 3037 active reset button  
+06/03/2021 15:51:56 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:56 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:57 Administrator 3037 active reset button  
+06/03/2021 15:51:57 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:57 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:57 Administrator 3037 active reset button  
+06/03/2021 15:51:57 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:57 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:58 Administrator 3037 active reset button  
+06/03/2021 15:51:58 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:58 Administrator 1034 The point action button is connected  
+06/03/2021 15:51:58 Administrator 3037 active reset button  
+06/03/2021 15:51:58 Administrator 1005 Door and window open alarm  
+06/03/2021 15:51:58 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:01 Administrator 3037 active reset button  
+06/03/2021 15:52:01 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:01 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:03 Administrator 3037 active reset button  
+06/03/2021 15:52:03 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:03 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:04 Administrator 3037 active reset button  
+06/03/2021 15:52:04 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:04 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:15 Administrator 3037 active reset button  
+06/03/2021 15:52:15 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:15 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:15 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:15 Administrator 1007 Inverter fault  
+06/03/2021 15:52:15 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:16 Administrator 3037 active reset button  
+06/03/2021 15:52:16 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:16 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:17 Administrator 3037 active reset button  
+06/03/2021 15:52:17 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:17 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:17 Administrator 3037 active reset button  
+06/03/2021 15:52:18 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:18 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:18 Administrator 3037 active reset button  
+06/03/2021 15:52:18 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:18 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:19 Administrator 3037 active reset button  
+06/03/2021 15:52:19 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:19 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:19 Administrator 3037 active reset button  
+06/03/2021 15:52:19 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:19 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:20 Administrator 3037 active reset button  
+06/03/2021 15:52:20 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:20 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:23 Administrator 3037 active reset button  
+06/03/2021 15:52:23 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:23 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:24 Administrator 3037 active reset button  
+06/03/2021 15:52:24 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:24 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:24 Administrator 3037 active reset button  
+06/03/2021 15:52:24 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:24 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:25 Administrator 3037 active reset button  
+06/03/2021 15:52:25 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:25 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:25 Administrator 3037 active reset button  
+06/03/2021 15:52:25 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:25 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:26 Administrator 3037 active reset button  
+06/03/2021 15:52:26 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:26 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:27 Administrator 3037 active reset button  
+06/03/2021 15:52:27 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:27 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:27 Administrator 3037 active reset button  
+06/03/2021 15:52:27 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:27 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:28 Administrator 3037 active reset button  
+06/03/2021 15:52:28 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:28 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:30 Administrator 3037 active reset button  
+06/03/2021 15:52:30 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:30 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:30 Administrator 3037 active reset button  
+06/03/2021 15:52:30 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:30 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:32 Administrator 3037 active reset button  
+06/03/2021 15:52:32 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:32 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:32 Administrator 3037 active reset button  
+06/03/2021 15:52:32 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:32 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:32 Administrator 3037 active reset button  
+06/03/2021 15:52:32 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:32 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:33 Administrator 3037 active reset button  
+06/03/2021 15:52:33 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:33 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:34 Administrator 3037 active reset button  
+06/03/2021 15:52:34 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:34 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:35 Administrator 3037 active reset button  
+06/03/2021 15:52:35 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:35 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:35 Administrator 3037 active reset button  
+06/03/2021 15:52:35 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:35 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:36 Administrator 3037 active reset button  
+06/03/2021 15:52:36 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:36 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:37 Administrator 3037 active reset button  
+06/03/2021 15:52:37 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:37 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:38 Administrator 3037 active reset button  
+06/03/2021 15:52:38 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:38 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:38 Administrator 3037 active reset button  
+06/03/2021 15:52:38 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:38 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:39 Administrator 3037 active reset button  
+06/03/2021 15:52:39 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:39 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:42 Administrator 1004 Emergency stop alarm  
+06/03/2021 15:52:42 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:42 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:44 Administrator 3037 active reset button  
+06/03/2021 15:52:44 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:44 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:44 Administrator 3037 active reset button  
+06/03/2021 15:52:44 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:45 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:45 Administrator 3037 active reset button  
+06/03/2021 15:52:45 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:45 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:46 Administrator 3037 active reset button  
+06/03/2021 15:52:46 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:46 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:46 Administrator 3037 active reset button  
+06/03/2021 15:52:46 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:47 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:47 Administrator 3037 active reset button  
+06/03/2021 15:52:47 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:47 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:47 Administrator 3037 active reset button  
+06/03/2021 15:52:48 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:48 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:48 Administrator 3037 active reset button  
+06/03/2021 15:52:48 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:48 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:48 Administrator 3037 active reset button  
+06/03/2021 15:52:48 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:49 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:49 Administrator 3037 active reset button  
+06/03/2021 15:52:49 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:49 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:49 Administrator 3037 active reset button  
+06/03/2021 15:52:49 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:49 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:51 Administrator 3037 active reset button  
+06/03/2021 15:52:51 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:51 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:51 Administrator 3037 active reset button  
+06/03/2021 15:52:51 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:51 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:54 Administrator 3037 active reset button  
+06/03/2021 15:52:55 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:55 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:55 Administrator 3037 active reset button  
+06/03/2021 15:52:55 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:55 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:55 Administrator 3037 active reset button  
+06/03/2021 15:52:55 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:55 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:56 Administrator 3037 active reset button  
+06/03/2021 15:52:56 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:56 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:56 Administrator 3037 active reset button  
+06/03/2021 15:52:56 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:56 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:56 Administrator 3037 active reset button  
+06/03/2021 15:52:56 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:56 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:57 Administrator 3037 active reset button  
+06/03/2021 15:52:57 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:57 Administrator 1034 The point action button is connected  
+06/03/2021 15:52:57 Administrator 3037 active reset button  
+06/03/2021 15:52:57 Administrator 1005 Door and window open alarm  
+06/03/2021 15:52:57 Administrator 1034 The point action button is connected  
+06/03/2021 15:53:05 Administrator 3034 active jog button  
+06/03/2021 15:53:05 Administrator 3037 active reset button  
+06/03/2021 15:53:05 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:05 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:05 Administrator 1007 Inverter fault  
+06/03/2021 15:53:06 Administrator 3037 active reset button  
+06/03/2021 15:53:06 Administrator 1007 Inverter fault  
+06/03/2021 15:53:06 Administrator 3037 active reset button  
+06/03/2021 15:53:06 Administrator 1007 Inverter fault  
+06/03/2021 15:53:06 Administrator 3037 active reset button  
+06/03/2021 15:53:07 Administrator 3037 active reset button  
+06/03/2021 15:53:08 Administrator 3037 active reset button  
+06/03/2021 15:53:15 Administrator 3034 active jog button  
+06/03/2021 15:53:15 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:15 Administrator 3037 active reset button  
+06/03/2021 15:53:15 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:16 Administrator 3037 active reset button  
+06/03/2021 15:53:16 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:16 Administrator 3037 active reset button  
+06/03/2021 15:53:16 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:17 Administrator 3037 active reset button  
+06/03/2021 15:53:17 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:19 Administrator 3037 active reset button  
+06/03/2021 15:53:19 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:20 Administrator 3037 active reset button  
+06/03/2021 15:53:20 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:20 Administrator 3037 active reset button  
+06/03/2021 15:53:20 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:21 Administrator 3034 active jog button  
+06/03/2021 15:53:22 Administrator 3037 active reset button  
+06/03/2021 15:53:22 Administrator 3037 active reset button  
+06/03/2021 15:53:22 Administrator 3037 active reset button  
+06/03/2021 15:53:23 Administrator 3037 active reset button  
+06/03/2021 15:53:23 Administrator 3037 active reset button  
+06/03/2021 15:53:24 Administrator 3034 active jog button  
+06/03/2021 15:53:24 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:28 Administrator 3037 active reset button  
+06/03/2021 15:53:28 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:29 Administrator 3037 active reset button  
+06/03/2021 15:53:29 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:29 Administrator 3037 active reset button  
+06/03/2021 15:53:29 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:29 Administrator 3037 active reset button  
+06/03/2021 15:53:29 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:29 Administrator 3037 active reset button  
+06/03/2021 15:53:29 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:35 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:35 Administrator 1034 The point action button is connected  
+06/03/2021 15:53:41 Administrator 3037 active reset button  
+06/03/2021 15:53:41 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:41 Administrator 3037 active reset button  
+06/03/2021 15:53:41 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:42 Administrator 3037 active reset button  
+06/03/2021 15:53:42 Administrator 1005 Door and window open alarm  
+06/03/2021 15:53:42 Administrator 3034 active jog button  
+06/03/2021 15:53:43 Administrator 3037 active reset button  
+06/03/2021 15:53:43 Administrator 3037 active reset button  
+06/03/2021 15:53:44 Administrator 3037 active reset button  
+06/03/2021 15:53:44 Administrator 3037 active reset button  
+06/03/2021 15:53:54 Administrator 3034 active jog button  
+06/03/2021 15:53:54 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:01 Administrator 3037 active reset button  
+06/03/2021 15:54:01 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:02 Administrator 3037 active reset button  
+06/03/2021 15:54:02 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:04 Administrator 3037 active reset button  
+06/03/2021 15:54:04 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:05 Administrator 3034 active jog button  
+06/03/2021 15:54:06 Administrator 3037 active reset button  
+06/03/2021 15:54:21 Administrator 3037 active reset button  
+06/03/2021 15:54:21 Administrator 3037 active reset button  
+06/03/2021 15:54:21 Administrator 3037 active reset button  
+06/03/2021 15:54:26 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:35 Administrator 3037 active reset button  
+06/03/2021 15:54:35 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:36 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:36 Administrator 1007 Inverter fault  
+06/03/2021 15:54:36 Administrator 3037 active reset button  
+06/03/2021 15:54:36 Administrator 1007 Inverter fault  
+06/03/2021 15:54:36 Administrator 3037 active reset button  
+06/03/2021 15:54:36 Administrator 1007 Inverter fault  
+06/03/2021 15:54:36 Administrator 3037 active reset button  
+06/03/2021 15:54:36 Administrator 1007 Inverter fault  
+06/03/2021 15:54:36 Administrator 3037 active reset button  
+06/03/2021 15:54:36 Administrator 1007 Inverter fault  
+06/03/2021 15:54:37 Administrator 3037 active reset button  
+06/03/2021 15:54:37 Administrator 3037 active reset button  
+06/03/2021 15:54:38 Administrator 3035 active start button  
+06/03/2021 15:54:41 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:45 Administrator 3037 active reset button  
+06/03/2021 15:54:45 Administrator 1005 Door and window open alarm  
+06/03/2021 15:54:45 Administrator 3037 active reset button  
+06/03/2021 15:54:45 Administrator 3037 active reset button  
+06/03/2021 15:54:45 Administrator 3037 active reset button  
+06/03/2021 15:54:46 Administrator 3035 active start button  
+06/03/2021 15:55:16 Administrator 1011 Powder feeding time is too long  
+06/03/2021 15:55:22 Administrator 3037 active reset button  
+06/03/2021 15:55:22 Administrator 3037 active reset button  
+06/03/2021 15:55:22 Administrator 3037 active reset button  
+06/03/2021 15:55:23 Administrator 3035 active start button  
+06/03/2021 15:57:31 Administrator 1005 Door and window open alarm  
+06/03/2021 15:57:34 Administrator 3037 active reset button  
+06/03/2021 15:57:34 Administrator 1005 Door and window open alarm  
+06/03/2021 15:57:34 Administrator 3037 active reset button  
+06/03/2021 15:57:34 Administrator 3037 active reset button  
+06/03/2021 15:57:34 Administrator 3037 active reset button  
+06/03/2021 15:57:34 Administrator 3037 active reset button  
+06/03/2021 15:57:35 Administrator 3035 active start button  
+06/03/2021 15:57:47 Administrator 1005 Door and window open alarm  
+06/03/2021 15:57:51 Administrator 3037 active reset button  
+06/03/2021 15:57:51 Administrator 1005 Door and window open alarm  
+06/03/2021 15:57:51 Administrator 1005 Door and window open alarm  
+06/03/2021 15:57:51 Administrator 1007 Inverter fault  
+06/03/2021 15:57:52 Administrator 3037 active reset button  
+06/03/2021 15:57:52 Administrator 1007 Inverter fault  
+06/03/2021 15:57:52 Administrator 3037 active reset button  
+06/03/2021 15:57:52 Administrator 3037 active reset button  
+06/03/2021 15:58:03 Administrator 3035 active start button  
+06/03/2021 15:59:42 Administrator 1005 Door and window open alarm  
+06/03/2021 16:05:53 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:05:53 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:21 Administrator 3037 active reset button  
+06/03/2021 16:06:21 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:21 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:21 Administrator 3037 active reset button  
+06/03/2021 16:06:21 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:21 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:21 Administrator 3037 active reset button  
+06/03/2021 16:06:21 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:21 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:21 Administrator 3037 active reset button  
+06/03/2021 16:06:21 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:22 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:22 Administrator 3037 active reset button  
+06/03/2021 16:06:22 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:22 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:22 Administrator 3037 active reset button  
+06/03/2021 16:06:22 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:22 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:23 Administrator 3037 active reset button  
+06/03/2021 16:06:23 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:23 Administrator 3037 active reset button  
+06/03/2021 16:06:23 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:24 Administrator 3037 active reset button  
+06/03/2021 16:06:24 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:25 Administrator 3037 active reset button  
+06/03/2021 16:06:25 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:25 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:25 Administrator 3037 active reset button  
+06/03/2021 16:06:25 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:25 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:29 Administrator 3001 Speed adjust 2600 2600
+06/03/2021 16:06:40 Administrator 3037 active reset button  
+06/03/2021 16:06:40 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:40 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:40 Administrator 3037 active reset button  
+06/03/2021 16:06:40 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:40 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:40 Administrator 3037 active reset button  
+06/03/2021 16:06:41 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:41 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:54 Administrator 3037 active reset button  
+06/03/2021 16:06:54 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:54 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:54 Administrator 3037 active reset button  
+06/03/2021 16:06:54 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:54 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:54 Administrator 3037 active reset button  
+06/03/2021 16:06:54 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:55 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:56 Administrator 3037 active reset button  
+06/03/2021 16:06:56 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:56 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:56 Administrator 3037 active reset button  
+06/03/2021 16:06:56 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:56 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:56 Administrator 3037 active reset button  
+06/03/2021 16:06:56 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:57 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:57 Administrator 3037 active reset button  
+06/03/2021 16:06:57 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:57 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:57 Administrator 3037 active reset button  
+06/03/2021 16:06:57 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:57 Administrator 1005 Door and window open alarm  
+06/03/2021 16:06:58 Administrator 3037 active reset button  
+06/03/2021 16:06:58 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:06:58 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:10 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:10 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:10 Administrator 1041 Following error  
+06/03/2021 16:07:11 Administrator 3037 active reset button  
+06/03/2021 16:07:11 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:12 Administrator 1041 Following error  
+06/03/2021 16:07:12 Administrator 3037 active reset button  
+06/03/2021 16:07:12 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:12 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:12 Administrator 1041 Following error  
+06/03/2021 16:07:13 Administrator 3037 active reset button  
+06/03/2021 16:07:13 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:13 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:13 Administrator 1041 Following error  
+06/03/2021 16:07:20 Administrator 3037 active reset button  
+06/03/2021 16:07:21 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:21 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:21 Administrator 1041 Following error  
+06/03/2021 16:07:21 Administrator 3037 active reset button  
+06/03/2021 16:07:21 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:21 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:21 Administrator 1041 Following error  
+06/03/2021 16:07:43 Administrator 3037 active reset button  
+06/03/2021 16:07:43 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:43 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:43 Administrator 3037 active reset button  
+06/03/2021 16:07:43 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:43 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:44 Administrator 3037 active reset button  
+06/03/2021 16:07:44 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:44 Administrator 3037 active reset button  
+06/03/2021 16:07:44 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:44 Administrator 3037 active reset button  
+06/03/2021 16:07:44 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:44 Administrator 3037 active reset button  
+06/03/2021 16:07:44 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:44 Administrator 3037 active reset button  
+06/03/2021 16:07:44 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:07:45 Administrator 3037 active reset button  
+06/03/2021 16:07:45 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:07:45 Administrator 1005 Door and window open alarm  
+06/03/2021 16:10:58 Administrator 3037 active reset button  
+06/03/2021 16:10:58 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:10:58 Administrator 1005 Door and window open alarm  
+06/03/2021 16:10:58 Administrator 3037 active reset button  
+06/03/2021 16:10:58 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:10:58 Administrator 1005 Door and window open alarm  
+06/03/2021 16:10:58 Administrator 3037 active reset button  
+06/03/2021 16:10:58 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:10:58 Administrator 1005 Door and window open alarm  
+06/03/2021 16:10:59 Administrator 3037 active reset button  
+06/03/2021 16:10:59 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:10:59 Administrator 1005 Door and window open alarm  
+06/03/2021 16:10:59 Administrator 3037 active reset button  
+06/03/2021 16:10:59 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:10:59 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:02 Administrator 3037 active reset button  
+06/03/2021 16:11:02 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:02 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:03 Administrator 3037 active reset button  
+06/03/2021 16:11:03 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:03 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:03 Administrator 3037 active reset button  
+06/03/2021 16:11:03 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:03 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:03 Administrator 3034 active jog button  
+06/03/2021 16:11:04 Administrator 3037 active reset button  
+06/03/2021 16:11:04 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:04 Administrator 3037 active reset button  
+06/03/2021 16:11:04 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:05 Administrator 3034 active jog button  
+06/03/2021 16:11:07 Administrator 3037 active reset button  
+06/03/2021 16:11:07 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:07 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:34 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:34 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:35 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 16:11:36 Administrator 3037 active reset button  
+06/03/2021 16:11:36 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:36 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:36 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 16:11:36 Administrator 3037 active reset button  
+06/03/2021 16:11:36 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:11:36 Administrator 1005 Door and window open alarm  
+06/03/2021 16:11:36 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 16:11:59 Administrator 3001 Speed adjust 2600 2600
+06/03/2021 16:12:05 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:12:05 Administrator 1005 Door and window open alarm  
+06/03/2021 16:12:05 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 16:12:05 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 16:12:15 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:12:15 Administrator 1005 Door and window open alarm  
+06/03/2021 16:12:15 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 16:13:09 Administrator 3037 active reset button  
+06/03/2021 16:13:09 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:13:09 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:12 Administrator 3037 active reset button  
+06/03/2021 16:13:12 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:13:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:12 Administrator 3037 active reset button  
+06/03/2021 16:13:12 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:13:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:15 Administrator 3037 active reset button  
+06/03/2021 16:13:15 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:13:15 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:15 Administrator 3037 active reset button  
+06/03/2021 16:13:15 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:13:15 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:16 Administrator 3037 active reset button  
+06/03/2021 16:13:16 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:13:16 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:16 Administrator 3037 active reset button  
+06/03/2021 16:13:16 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:13:16 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:36 Administrator 3037 active reset button  
+06/03/2021 16:13:36 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:37 Administrator 3037 active reset button  
+06/03/2021 16:13:37 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:37 Administrator 3037 active reset button  
+06/03/2021 16:13:37 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:40 Administrator 3037 active reset button  
+06/03/2021 16:13:40 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:40 Administrator 3037 active reset button  
+06/03/2021 16:13:40 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:40 Administrator 3037 active reset button  
+06/03/2021 16:13:41 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:41 Administrator 3037 active reset button  
+06/03/2021 16:13:41 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:41 Administrator 3037 active reset button  
+06/03/2021 16:13:41 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:42 Administrator 3037 active reset button  
+06/03/2021 16:13:42 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:42 Administrator 3037 active reset button  
+06/03/2021 16:13:42 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:44 Administrator 3037 active reset button  
+06/03/2021 16:13:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:44 Administrator 3037 active reset button  
+06/03/2021 16:13:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:57 Administrator 3037 active reset button  
+06/03/2021 16:13:57 Administrator 1005 Door and window open alarm  
+06/03/2021 16:13:58 Administrator 3037 active reset button  
+06/03/2021 16:13:58 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:03 Administrator 3037 active reset button  
+06/03/2021 16:14:03 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:05 Administrator 3037 active reset button  
+06/03/2021 16:14:05 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:06 Administrator 3037 active reset button  
+06/03/2021 16:14:06 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:09 Administrator 3037 active reset button  
+06/03/2021 16:14:09 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:09 Administrator 3037 active reset button  
+06/03/2021 16:14:09 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:11 Administrator 3037 active reset button  
+06/03/2021 16:14:11 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:11 Administrator 3037 active reset button  
+06/03/2021 16:14:11 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:24 Administrator 3037 active reset button  
+06/03/2021 16:14:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:24 Administrator 3037 active reset button  
+06/03/2021 16:14:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:24 Administrator 3037 active reset button  
+06/03/2021 16:14:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:24 Administrator 3037 active reset button  
+06/03/2021 16:14:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:29 Administrator 3037 active reset button  
+06/03/2021 16:14:29 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:30 Administrator 3037 active reset button  
+06/03/2021 16:14:30 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:30 Administrator 3037 active reset button  
+06/03/2021 16:14:30 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:30 Administrator 3037 active reset button  
+06/03/2021 16:14:30 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:30 Administrator 3037 active reset button  
+06/03/2021 16:14:30 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:30 Administrator 3037 active reset button  
+06/03/2021 16:14:30 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:31 Administrator 3037 active reset button  
+06/03/2021 16:14:31 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:31 Administrator 3037 active reset button  
+06/03/2021 16:14:31 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:31 Administrator 3037 active reset button  
+06/03/2021 16:14:31 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:32 Administrator 3037 active reset button  
+06/03/2021 16:14:32 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:32 Administrator 3037 active reset button  
+06/03/2021 16:14:32 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:32 Administrator 3037 active reset button  
+06/03/2021 16:14:32 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:33 Administrator 3037 active reset button  
+06/03/2021 16:14:33 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:33 Administrator 3037 active reset button  
+06/03/2021 16:14:33 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:33 Administrator 3037 active reset button  
+06/03/2021 16:14:33 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:34 Administrator 3037 active reset button  
+06/03/2021 16:14:34 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:34 Administrator 3037 active reset button  
+06/03/2021 16:14:34 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:34 Administrator 3037 active reset button  
+06/03/2021 16:14:34 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:42 Administrator 3037 active reset button  
+06/03/2021 16:14:42 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:42 Administrator 3037 active reset button  
+06/03/2021 16:14:42 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:42 Administrator 3037 active reset button  
+06/03/2021 16:14:42 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:43 Administrator 3037 active reset button  
+06/03/2021 16:14:43 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:43 Administrator 3037 active reset button  
+06/03/2021 16:14:43 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:43 Administrator 3037 active reset button  
+06/03/2021 16:14:43 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:43 Administrator 3037 active reset button  
+06/03/2021 16:14:43 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:44 Administrator 3037 active reset button  
+06/03/2021 16:14:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:44 Administrator 3037 active reset button  
+06/03/2021 16:14:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:44 Administrator 3037 active reset button  
+06/03/2021 16:14:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:50 Administrator 3037 active reset button  
+06/03/2021 16:14:50 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:51 Administrator 3037 active reset button  
+06/03/2021 16:14:51 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:51 Administrator 3037 active reset button  
+06/03/2021 16:14:51 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:51 Administrator 3037 active reset button  
+06/03/2021 16:14:51 Administrator 1005 Door and window open alarm  
+06/03/2021 16:14:52 Administrator 3037 active reset button  
+06/03/2021 16:14:52 Administrator 1005 Door and window open alarm  
+06/03/2021 16:15:04 Administrator 3037 active reset button  
+06/03/2021 16:15:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:15:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:15:04 Administrator 1007 Inverter fault  
+06/03/2021 16:15:04 Administrator 3037 active reset button  
+06/03/2021 16:15:04 Administrator 1007 Inverter fault  
+06/03/2021 16:15:05 Administrator 3037 active reset button  
+06/03/2021 16:15:05 Administrator 1007 Inverter fault  
+06/03/2021 16:15:05 Administrator 3037 active reset button  
+06/03/2021 16:15:05 Administrator 1007 Inverter fault  
+06/03/2021 16:15:05 Administrator 3037 active reset button  
+06/03/2021 16:15:05 Administrator 1007 Inverter fault  
+06/03/2021 16:15:06 Administrator 3037 active reset button  
+06/03/2021 16:15:32 Administrator 1005 Door and window open alarm  
+06/03/2021 16:15:54 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:15:54 Administrator 1005 Door and window open alarm  
+06/03/2021 16:16:26 Administrator 3037 active reset button  
+06/03/2021 16:16:26 Administrator 1005 Door and window open alarm  
+06/03/2021 16:16:26 Administrator 1005 Door and window open alarm  
+06/03/2021 16:16:26 Administrator 1007 Inverter fault  
+06/03/2021 16:16:26 Administrator 3037 active reset button  
+06/03/2021 16:16:26 Administrator 1007 Inverter fault  
+06/03/2021 16:16:26 Administrator 3037 active reset button  
+06/03/2021 16:16:26 Administrator 1007 Inverter fault  
+06/03/2021 16:16:26 Administrator 3037 active reset button  
+06/03/2021 16:16:26 Administrator 1007 Inverter fault  
+06/03/2021 16:16:26 Administrator 3037 active reset button  
+06/03/2021 16:16:26 Administrator 1007 Inverter fault  
+06/03/2021 16:16:27 Administrator 3037 active reset button  
+06/03/2021 16:16:27 Administrator 1007 Inverter fault  
+06/03/2021 16:16:27 Administrator 3037 active reset button  
+06/03/2021 16:16:27 Administrator 1007 Inverter fault  
+06/03/2021 16:16:27 Administrator 3037 active reset button  
+06/03/2021 16:16:28 Administrator 3037 active reset button  
+06/03/2021 16:16:29 Administrator 3037 active reset button  
+06/03/2021 16:16:29 Administrator 3037 active reset button  
+06/03/2021 16:16:30 Administrator 3037 active reset button  
+06/03/2021 16:16:30 Administrator 3037 active reset button  
+06/03/2021 16:16:33 Administrator 3035 active start button  
+06/03/2021 16:16:56 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:17:02 Administrator 1005 Door and window open alarm  
+06/03/2021 16:17:02 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:17:16 Administrator 3037 active reset button  
+06/03/2021 16:17:16 Administrator 1005 Door and window open alarm  
+06/03/2021 16:17:16 Administrator 1005 Door and window open alarm  
+06/03/2021 16:17:16 Administrator 1007 Inverter fault  
+06/03/2021 16:17:16 Administrator 3037 active reset button  
+06/03/2021 16:17:17 Administrator 1007 Inverter fault  
+06/03/2021 16:17:17 Administrator 3037 active reset button  
+06/03/2021 16:17:17 Administrator 1007 Inverter fault  
+06/03/2021 16:17:17 Administrator 3037 active reset button  
+06/03/2021 16:17:17 Administrator 1007 Inverter fault  
+06/03/2021 16:17:17 Administrator 3037 active reset button  
+06/03/2021 16:17:17 Administrator 1007 Inverter fault  
+06/03/2021 16:17:18 Administrator 3037 active reset button  
+06/03/2021 16:17:18 Administrator 1007 Inverter fault  
+06/03/2021 16:17:18 Administrator 3037 active reset button  
+06/03/2021 16:17:21 Administrator 3035 active start button  
+06/03/2021 16:17:34 Administrator 1005 Door and window open alarm  
+06/03/2021 16:19:23 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:19:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:22:37 Administrator 3037 active reset button  
+06/03/2021 16:22:37 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:37 Administrator 1005 Door and window open alarm  
+06/03/2021 16:22:37 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:37 Administrator 3037 active reset button  
+06/03/2021 16:22:37 Administrator 1005 Door and window open alarm  
+06/03/2021 16:22:37 Administrator 1007 Inverter fault  
+06/03/2021 16:22:37 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:37 Administrator 3037 active reset button  
+06/03/2021 16:22:37 Administrator 1007 Inverter fault  
+06/03/2021 16:22:38 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:38 Administrator 1007 Inverter fault  
+06/03/2021 16:22:38 Administrator 3037 active reset button  
+06/03/2021 16:22:38 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:38 Administrator 1007 Inverter fault  
+06/03/2021 16:22:38 Administrator 3037 active reset button  
+06/03/2021 16:22:38 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:38 Administrator 1007 Inverter fault  
+06/03/2021 16:22:38 Administrator 3037 active reset button  
+06/03/2021 16:22:38 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:38 Administrator 1007 Inverter fault  
+06/03/2021 16:22:39 Administrator 3037 active reset button  
+06/03/2021 16:22:39 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:22:40 Administrator 3037 active reset button  
+06/03/2021 16:22:40 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:23:10 Administrator 3037 active reset button  
+06/03/2021 16:23:10 Administrator 3037 active reset button  
+06/03/2021 16:23:11 Administrator 3037 active reset button  
+06/03/2021 16:23:13 Administrator 3037 active reset button  
+06/03/2021 16:23:13 Administrator 3037 active reset button  
+06/03/2021 16:23:14 Administrator 3037 active reset button  
+06/03/2021 16:23:15 Administrator 3035 active start button  
+06/03/2021 16:23:25 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:23:39 Administrator 3037 active reset button  
+06/03/2021 16:23:39 Administrator 3037 active reset button  
+06/03/2021 16:23:39 Administrator 3037 active reset button  
+06/03/2021 16:23:40 Administrator 3035 active start button  
+06/03/2021 16:23:50 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:23:59 Administrator 3037 active reset button  
+06/03/2021 16:24:17 Administrator 3037 active reset button  
+06/03/2021 16:24:17 Administrator 3037 active reset button  
+06/03/2021 16:24:18 Administrator 3037 active reset button  
+06/03/2021 16:24:18 Administrator 3035 active start button  
+06/03/2021 16:24:48 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:24:51 Administrator 3037 active reset button  
+06/03/2021 16:24:52 Administrator 3035 active start button  
+06/03/2021 16:25:16 Administrator 3036 active stop button  
+06/03/2021 16:25:35 Administrator 1005 Door and window open alarm  
+06/03/2021 16:27:26 Administrator 3037 active reset button  
+06/03/2021 16:27:26 Administrator 1005 Door and window open alarm  
+06/03/2021 16:27:26 Administrator 1005 Door and window open alarm  
+06/03/2021 16:27:26 Administrator 1007 Inverter fault  
+06/03/2021 16:27:26 Administrator 3037 active reset button  
+06/03/2021 16:27:26 Administrator 1007 Inverter fault  
+06/03/2021 16:27:26 Administrator 3037 active reset button  
+06/03/2021 16:27:26 Administrator 1007 Inverter fault  
+06/03/2021 16:27:26 Administrator 3037 active reset button  
+06/03/2021 16:27:26 Administrator 1007 Inverter fault  
+06/03/2021 16:27:27 Administrator 3037 active reset button  
+06/03/2021 16:27:27 Administrator 1007 Inverter fault  
+06/03/2021 16:27:27 Administrator 3037 active reset button  
+06/03/2021 16:27:30 Administrator 3035 active start button  
+06/03/2021 16:28:08 Administrator 1011 Powder feeding time is too long  
+06/03/2021 16:28:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:28:12 Administrator 1011 Powder feeding time is too long  
+06/03/2021 16:28:25 Administrator 3037 active reset button  
+06/03/2021 16:28:25 Administrator 1005 Door and window open alarm  
+06/03/2021 16:28:25 Administrator 1005 Door and window open alarm  
+06/03/2021 16:28:25 Administrator 1007 Inverter fault  
+06/03/2021 16:28:25 Administrator 3037 active reset button  
+06/03/2021 16:28:26 Administrator 1007 Inverter fault  
+06/03/2021 16:28:26 Administrator 3037 active reset button  
+06/03/2021 16:28:26 Administrator 1007 Inverter fault  
+06/03/2021 16:28:26 Administrator 3037 active reset button  
+06/03/2021 16:28:26 Administrator 1007 Inverter fault  
+06/03/2021 16:28:26 Administrator 3037 active reset button  
+06/03/2021 16:28:26 Administrator 1007 Inverter fault  
+06/03/2021 16:28:27 Administrator 3037 active reset button  
+06/03/2021 16:28:27 Administrator 3037 active reset button  
+06/03/2021 16:28:28 Administrator 3035 active start button  
+06/03/2021 16:29:00 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:29:12 Administrator 3037 active reset button  
+06/03/2021 16:29:12 Administrator 3037 active reset button  
+06/03/2021 16:29:12 Administrator 3037 active reset button  
+06/03/2021 16:29:12 Administrator 3037 active reset button  
+06/03/2021 16:29:13 Administrator 3035 active start button  
+06/03/2021 16:29:43 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:23 Administrator 3037 active reset button  
+06/03/2021 16:31:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:23 Administrator 3037 active reset button  
+06/03/2021 16:31:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:24 Administrator 3037 active reset button  
+06/03/2021 16:31:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:24 Administrator 3037 active reset button  
+06/03/2021 16:31:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:24 Administrator 3037 active reset button  
+06/03/2021 16:31:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:25 Administrator 3037 active reset button  
+06/03/2021 16:31:25 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:25 Administrator 3037 active reset button  
+06/03/2021 16:31:25 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:26 Administrator 3037 active reset button  
+06/03/2021 16:31:26 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:26 Administrator 3037 active reset button  
+06/03/2021 16:31:26 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:26 Administrator 3037 active reset button  
+06/03/2021 16:31:26 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:27 Administrator 3037 active reset button  
+06/03/2021 16:31:27 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:32 Administrator 3037 active reset button  
+06/03/2021 16:31:32 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:32 Administrator 1005 Door and window open alarm  
+06/03/2021 16:31:32 Administrator 1007 Inverter fault  
+06/03/2021 16:31:32 Administrator 3037 active reset button  
+06/03/2021 16:31:32 Administrator 1007 Inverter fault  
+06/03/2021 16:31:33 Administrator 3037 active reset button  
+06/03/2021 16:31:33 Administrator 1007 Inverter fault  
+06/03/2021 16:31:33 Administrator 3037 active reset button  
+06/03/2021 16:31:33 Administrator 1007 Inverter fault  
+06/03/2021 16:31:33 Administrator 3037 active reset button  
+06/03/2021 16:31:33 Administrator 1007 Inverter fault  
+06/03/2021 16:31:34 Administrator 3037 active reset button  
+06/03/2021 16:31:35 Administrator 3035 active start button  
+06/03/2021 16:31:54 Administrator 3037 active reset button  
+06/03/2021 16:31:54 Administrator 3037 active reset button  
+06/03/2021 16:31:55 Administrator 3037 active reset button  
+06/03/2021 16:31:55 Administrator 3037 active reset button  
+06/03/2021 16:32:03 Administrator 3037 active reset button  
+06/03/2021 16:32:03 Administrator 3037 active reset button  
+06/03/2021 16:32:03 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:04 Administrator 3037 active reset button  
+06/03/2021 16:32:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:04 Administrator 3037 active reset button  
+06/03/2021 16:32:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:05 Administrator 3037 active reset button  
+06/03/2021 16:32:05 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:05 Administrator 3037 active reset button  
+06/03/2021 16:32:05 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:05 Administrator 3037 active reset button  
+06/03/2021 16:32:05 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:06 Administrator 3037 active reset button  
+06/03/2021 16:32:06 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:06 Administrator 3037 active reset button  
+06/03/2021 16:32:06 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:06 Administrator 3037 active reset button  
+06/03/2021 16:32:07 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:07 Administrator 3037 active reset button  
+06/03/2021 16:32:07 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:07 Administrator 3037 active reset button  
+06/03/2021 16:32:07 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:08 Administrator 3037 active reset button  
+06/03/2021 16:32:08 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:11 Administrator 3037 active reset button  
+06/03/2021 16:32:11 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:12 Administrator 3037 active reset button  
+06/03/2021 16:32:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:12 Administrator 3037 active reset button  
+06/03/2021 16:32:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:12 Administrator 3037 active reset button  
+06/03/2021 16:32:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:13 Administrator 3037 active reset button  
+06/03/2021 16:32:13 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:13 Administrator 3037 active reset button  
+06/03/2021 16:32:13 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:14 Administrator 3037 active reset button  
+06/03/2021 16:32:14 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:15 Administrator 3037 active reset button  
+06/03/2021 16:32:15 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:15 Administrator 3037 active reset button  
+06/03/2021 16:32:15 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:17 Administrator 3037 active reset button  
+06/03/2021 16:32:17 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:17 Administrator 3037 active reset button  
+06/03/2021 16:32:17 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:18 Administrator 3037 active reset button  
+06/03/2021 16:32:18 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:18 Administrator 1005 Door and window open alarm  
+06/03/2021 16:32:18 Administrator 1007 Inverter fault  
+06/03/2021 16:32:18 Administrator 3037 active reset button  
+06/03/2021 16:32:18 Administrator 1007 Inverter fault  
+06/03/2021 16:32:19 Administrator 3037 active reset button  
+06/03/2021 16:32:21 Administrator 3035 active start button  
+06/03/2021 16:32:39 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:19 Administrator 3037 active reset button  
+06/03/2021 16:33:19 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:20 Administrator 3037 active reset button  
+06/03/2021 16:33:20 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:20 Administrator 3037 active reset button  
+06/03/2021 16:33:20 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:20 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:20 Administrator 3037 active reset button  
+06/03/2021 16:33:20 Administrator 1007 Inverter fault  
+06/03/2021 16:33:20 Administrator 1007 Inverter fault  
+06/03/2021 16:33:20 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:20 Administrator 3037 active reset button  
+06/03/2021 16:33:20 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:20 Administrator 3037 active reset button  
+06/03/2021 16:33:20 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:21 Administrator 3037 active reset button  
+06/03/2021 16:33:21 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:21 Administrator 3037 active reset button  
+06/03/2021 16:33:21 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:22 Administrator 3037 active reset button  
+06/03/2021 16:33:22 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:23 Administrator 3037 active reset button  
+06/03/2021 16:33:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:23 Administrator 3037 active reset button  
+06/03/2021 16:33:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:23 Administrator 3037 active reset button  
+06/03/2021 16:33:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:23 Administrator 3037 active reset button  
+06/03/2021 16:33:23 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:24 Administrator 3037 active reset button  
+06/03/2021 16:33:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:24 Administrator 3037 active reset button  
+06/03/2021 16:33:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:24 Administrator 3037 active reset button  
+06/03/2021 16:33:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:24 Administrator 3037 active reset button  
+06/03/2021 16:33:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:24 Administrator 3037 active reset button  
+06/03/2021 16:33:24 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:30 Administrator 3037 active reset button  
+06/03/2021 16:33:30 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:30 Administrator 1005 Door and window open alarm  
+06/03/2021 16:33:30 Administrator 1007 Inverter fault  
+06/03/2021 16:33:30 Administrator 3037 active reset button  
+06/03/2021 16:33:30 Administrator 1007 Inverter fault  
+06/03/2021 16:33:31 Administrator 3037 active reset button  
+06/03/2021 16:33:31 Administrator 1007 Inverter fault  
+06/03/2021 16:33:31 Administrator 3037 active reset button  
+06/03/2021 16:33:31 Administrator 1007 Inverter fault  
+06/03/2021 16:33:31 Administrator 3037 active reset button  
+06/03/2021 16:33:33 Administrator 3035 active start button  
+06/03/2021 16:34:03 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:34:51 Administrator 3037 active reset button  
+06/03/2021 16:34:51 Administrator 3037 active reset button  
+06/03/2021 16:34:51 Administrator 3037 active reset button  
+06/03/2021 16:34:52 Administrator 3035 active start button  
+06/03/2021 16:35:39 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:36:18 Administrator 1005 Door and window open alarm  
+06/03/2021 16:36:18 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:38:04 Administrator 3037 active reset button  
+06/03/2021 16:38:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:38:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:38:04 Administrator 1007 Inverter fault  
+06/03/2021 16:38:04 Administrator 3037 active reset button  
+06/03/2021 16:38:04 Administrator 1007 Inverter fault  
+06/03/2021 16:38:04 Administrator 3037 active reset button  
+06/03/2021 16:38:04 Administrator 1007 Inverter fault  
+06/03/2021 16:38:07 Administrator 3037 active reset button  
+06/03/2021 16:38:07 Administrator 3037 active reset button  
+06/03/2021 16:38:07 Administrator 3037 active reset button  
+06/03/2021 16:38:09 Administrator 3035 active start button  
+06/03/2021 16:38:38 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:39:02 Administrator 3037 active reset button  
+06/03/2021 16:39:02 Administrator 3037 active reset button  
+06/03/2021 16:39:03 Administrator 3037 active reset button  
+06/03/2021 16:39:03 Administrator 3037 active reset button  
+06/03/2021 16:39:04 Administrator 3035 active start button  
+06/03/2021 16:39:09 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:39:25 Administrator 3037 active reset button  
+06/03/2021 16:39:26 Administrator 3037 active reset button  
+06/03/2021 16:39:26 Administrator 3037 active reset button  
+06/03/2021 16:39:28 Administrator 3035 active start button  
+06/03/2021 16:39:59 Administrator 3035 active start button  
+06/03/2021 16:40:46 Administrator 1005 Door and window open alarm  
+06/03/2021 16:43:35 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:43:35 Administrator 1005 Door and window open alarm  
+06/03/2021 16:44:39 Administrator 3037 active reset button  
+06/03/2021 16:44:39 Administrator 1005 Door and window open alarm  
+06/03/2021 16:44:40 Administrator 1005 Door and window open alarm  
+06/03/2021 16:44:40 Administrator 1007 Inverter fault  
+06/03/2021 16:44:40 Administrator 3037 active reset button  
+06/03/2021 16:44:40 Administrator 1007 Inverter fault  
+06/03/2021 16:44:40 Administrator 3037 active reset button  
+06/03/2021 16:44:40 Administrator 1007 Inverter fault  
+06/03/2021 16:44:41 Administrator 3037 active reset button  
+06/03/2021 16:44:41 Administrator 3037 active reset button  
+06/03/2021 16:44:43 Administrator 3035 active start button  
+06/03/2021 16:45:28 Administrator 1011 Powder feeding time is too long  
+06/03/2021 16:45:53 Administrator 3037 active reset button  
+06/03/2021 16:45:53 Administrator 3037 active reset button  
+06/03/2021 16:45:53 Administrator 3037 active reset button  
+06/03/2021 16:45:54 Administrator 3035 active start button  
+06/03/2021 16:46:04 Administrator 1011 Powder feeding time is too long  
+06/03/2021 16:46:19 Administrator 3037 active reset button  
+06/03/2021 16:46:20 Administrator 3037 active reset button  
+06/03/2021 16:46:28 Administrator 3037 active reset button  
+06/03/2021 16:46:28 Administrator 3037 active reset button  
+06/03/2021 16:46:28 Administrator 3037 active reset button  
+06/03/2021 16:46:33 Administrator 3037 active reset button  
+06/03/2021 16:46:33 Administrator 3037 active reset button  
+06/03/2021 16:46:33 Administrator 1005 Door and window open alarm  
+06/03/2021 16:46:34 Administrator 3037 active reset button  
+06/03/2021 16:46:34 Administrator 1005 Door and window open alarm  
+06/03/2021 16:46:35 Administrator 3037 active reset button  
+06/03/2021 16:46:35 Administrator 3037 active reset button  
+06/03/2021 16:46:36 Administrator 3037 active reset button  
+06/03/2021 16:46:37 Administrator 3037 active reset button  
+06/03/2021 16:46:38 Administrator 3037 active reset button  
+06/03/2021 16:46:59 Administrator 3037 active reset button  
+06/03/2021 16:46:59 Administrator 3037 active reset button  
+06/03/2021 16:46:59 Administrator 3037 active reset button  
+06/03/2021 16:47:01 Administrator 3035 active start button  
+06/03/2021 16:47:11 Administrator 1011 Powder feeding time is too long  
+06/03/2021 16:47:19 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:19 Administrator 1011 Powder feeding time is too long  
+06/03/2021 16:47:49 Administrator 3037 active reset button  
+06/03/2021 16:47:49 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:49 Administrator 3037 active reset button  
+06/03/2021 16:47:49 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:49 Administrator 3037 active reset button  
+06/03/2021 16:47:49 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:50 Administrator 3037 active reset button  
+06/03/2021 16:47:50 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:50 Administrator 3037 active reset button  
+06/03/2021 16:47:50 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:51 Administrator 3037 active reset button  
+06/03/2021 16:47:51 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:56 Administrator 3037 active reset button  
+06/03/2021 16:47:56 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:56 Administrator 1005 Door and window open alarm  
+06/03/2021 16:47:56 Administrator 1007 Inverter fault  
+06/03/2021 16:47:56 Administrator 3037 active reset button  
+06/03/2021 16:47:56 Administrator 1007 Inverter fault  
+06/03/2021 16:47:56 Administrator 3037 active reset button  
+06/03/2021 16:47:56 Administrator 1007 Inverter fault  
+06/03/2021 16:47:57 Administrator 3037 active reset button  
+06/03/2021 16:47:57 Administrator 1007 Inverter fault  
+06/03/2021 16:47:57 Administrator 3037 active reset button  
+06/03/2021 16:48:04 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:06 Administrator 3037 active reset button  
+06/03/2021 16:48:06 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:09 Administrator 3037 active reset button  
+06/03/2021 16:48:09 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:09 Administrator 3037 active reset button  
+06/03/2021 16:48:09 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:10 Administrator 3037 active reset button  
+06/03/2021 16:48:10 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:10 Administrator 3037 active reset button  
+06/03/2021 16:48:10 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:11 Administrator 3037 active reset button  
+06/03/2021 16:48:11 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:12 Administrator 3037 active reset button  
+06/03/2021 16:48:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:12 Administrator 3037 active reset button  
+06/03/2021 16:48:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:12 Administrator 3037 active reset button  
+06/03/2021 16:48:12 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:13 Administrator 3037 active reset button  
+06/03/2021 16:48:13 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:13 Administrator 3037 active reset button  
+06/03/2021 16:48:13 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:13 Administrator 3037 active reset button  
+06/03/2021 16:48:13 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:13 Administrator 1005 Door and window open alarm  
+06/03/2021 16:48:13 Administrator 1007 Inverter fault  
+06/03/2021 16:48:14 Administrator 3037 active reset button  
+06/03/2021 16:48:14 Administrator 1007 Inverter fault  
+06/03/2021 16:48:14 Administrator 3037 active reset button  
+06/03/2021 16:48:14 Administrator 1007 Inverter fault  
+06/03/2021 16:48:14 Administrator 3037 active reset button  
+06/03/2021 16:48:15 Administrator 3037 active reset button  
+06/03/2021 16:48:17 Administrator 3035 active start button  
+06/03/2021 16:48:59 Administrator 1005 Door and window open alarm  
+06/03/2021 16:49:05 Administrator 1003 Hand wheel spin out alarm  
+06/03/2021 16:49:05 Administrator 1005 Door and window open alarm  
+06/03/2021 16:49:44 Administrator 3037 active reset button  
+06/03/2021 16:49:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:49:44 Administrator 1005 Door and window open alarm  
+06/03/2021 16:49:44 Administrator 1007 Inverter fault  
+06/03/2021 16:49:44 Administrator 3037 active reset button  
+06/03/2021 16:49:45 Administrator 1007 Inverter fault  
+06/03/2021 16:49:45 Administrator 3037 active reset button  
+06/03/2021 16:49:45 Administrator 1007 Inverter fault  
+06/03/2021 16:49:45 Administrator 3037 active reset button  
+06/03/2021 16:49:45 Administrator 1007 Inverter fault  
+06/03/2021 16:49:45 Administrator 3037 active reset button  
+06/03/2021 16:49:45 Administrator 1007 Inverter fault  
+06/03/2021 16:49:45 Administrator 3037 active reset button  
+06/03/2021 16:49:45 Administrator 1007 Inverter fault  
+06/03/2021 16:49:46 Administrator 3037 active reset button  
+06/03/2021 16:49:46 Administrator 3037 active reset button  
+06/03/2021 16:49:47 Administrator 3037 active reset button  
+06/03/2021 16:49:48 Administrator 3035 active start button  
+06/03/2021 16:50:48 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:52:14 Administrator 1004 Emergency stop alarm  
+06/03/2021 16:52:14 Administrator 1012 Material supply interval is too long  
+06/03/2021 16:52:15 Administrator 1004 Emergency stop alarm  
+06/03/2021 16:52:15 Administrator 1005 Door and window open alarm  
+06/03/2021 16:52:15 Administrator 1012 Material supply interval is too long  
+06/03/2021 17:15:25 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:15:25 Administrator 1005 Door and window open alarm  
+06/03/2021 17:15:25 Administrator 1012 Material supply interval is too long  
+06/03/2021 17:15:25 Administrator 1033 Batch not set  
+06/03/2021 17:17:11 Administrator 3033 Create batch 123sat pq030621for3
+06/03/2021 17:17:32 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:17:32 Administrator 1005 Door and window open alarm  
+06/03/2021 17:17:32 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:17:32 Administrator 1012 Material supply interval is too long  
+06/03/2021 17:17:32 Administrator 1033 Batch not set  
+06/03/2021 17:18:01 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:18:01 Administrator 1005 Door and window open alarm  
+06/03/2021 17:18:01 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:18:01 Administrator 1010 Insufficient of empty capsules  
+06/03/2021 17:18:01 Administrator 1012 Material supply interval is too long  
+06/03/2021 17:18:01 Administrator 1033 Batch not set  
+06/03/2021 17:19:01 Administrator 3001 Speed adjust 2600 2600
+06/03/2021 17:20:14 Administrator 3037 active reset button  
+06/03/2021 17:20:14 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:14 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:14 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:15 Administrator 3037 active reset button  
+06/03/2021 17:20:15 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:15 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:15 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:15 Administrator 3037 active reset button  
+06/03/2021 17:20:15 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:15 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:16 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:16 Administrator 3037 active reset button  
+06/03/2021 17:20:16 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:16 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:16 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:16 Administrator 3037 active reset button  
+06/03/2021 17:20:16 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:16 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:16 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:16 Administrator 3037 active reset button  
+06/03/2021 17:20:16 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:17 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:17 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:17 Administrator 3037 active reset button  
+06/03/2021 17:20:17 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:17 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:17 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:17 Administrator 3037 active reset button  
+06/03/2021 17:20:18 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:18 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:18 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:18 Administrator 3037 active reset button  
+06/03/2021 17:20:18 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:18 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:18 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:18 Administrator 3037 active reset button  
+06/03/2021 17:20:18 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:18 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:19 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:19 Administrator 3037 active reset button  
+06/03/2021 17:20:19 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:19 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:19 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:19 Administrator 3037 active reset button  
+06/03/2021 17:20:19 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:19 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:19 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:19 Administrator 3037 active reset button  
+06/03/2021 17:20:19 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:19 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:20 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:20 Administrator 3037 active reset button  
+06/03/2021 17:20:20 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:20 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:20 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:21 Administrator 3037 active reset button  
+06/03/2021 17:20:21 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:21 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:21 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:21 Administrator 3037 active reset button  
+06/03/2021 17:20:21 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:21 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:21 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:25 Administrator 3037 active reset button  
+06/03/2021 17:20:25 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:25 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:25 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:25 Administrator 3037 active reset button  
+06/03/2021 17:20:25 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:25 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:25 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:25 Administrator 3037 active reset button  
+06/03/2021 17:20:25 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:25 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:25 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:25 Administrator 3037 active reset button  
+06/03/2021 17:20:25 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:25 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:25 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:26 Administrator 3037 active reset button  
+06/03/2021 17:20:26 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:26 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:26 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:26 Administrator 3037 active reset button  
+06/03/2021 17:20:26 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:26 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:26 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:26 Administrator 3037 active reset button  
+06/03/2021 17:20:26 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:26 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:27 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:27 Administrator 3037 active reset button  
+06/03/2021 17:20:27 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:27 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:27 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:31 Administrator 3037 active reset button  
+06/03/2021 17:20:31 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:32 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:32 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:32 Administrator 3037 active reset button  
+06/03/2021 17:20:32 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:32 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:32 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:32 Administrator 3037 active reset button  
+06/03/2021 17:20:32 Administrator 1004 Emergency stop alarm  
+06/03/2021 17:20:32 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:32 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:41 Administrator 3037 active reset button  
+06/03/2021 17:20:42 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:42 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:42 Administrator 1005 Door and window open alarm  
+06/03/2021 17:20:42 Administrator 1007 Inverter fault  
+06/03/2021 17:20:42 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:42 Administrator 3037 active reset button  
+06/03/2021 17:20:42 Administrator 1007 Inverter fault  
+06/03/2021 17:20:42 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:20:44 Administrator 3037 active reset button  
+06/03/2021 17:20:44 Administrator 3037 active reset button  
+06/03/2021 17:20:44 Administrator 3037 active reset button  
+06/03/2021 17:20:59 Administrator 1033 Batch not set  
+06/03/2021 17:21:11 Administrator 1009 Insufficient vacuum pressure  
+06/03/2021 17:21:11 Administrator 1033 Batch not set  
+06/03/2021 17:21:27 Administrator 3033 Create batch pq030621for3 pq03062021format3
+06/03/2021 17:22:19 Administrator 3033 Create batch pq03062021format3 pq030621format3

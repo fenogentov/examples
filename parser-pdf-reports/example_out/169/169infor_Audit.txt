@@ -1,0 +1,15 @@
+ 1 06/07/2021 15:47:29 Operater 3035 active start button
+ 2 06/07/2021 15:47:30 Operater 3037 active reset button
+ 3 06/07/2021 15:47:30 Operater 3037 active reset button
+ 4 06/07/2021 15:47:31 Operater 3037 active reset button
+ 5 06/07/2021 15:47:31 Operater 3035 active start button
+ 6 06/07/2021 15:49:00 Operater 3036 active stop button
+ 7 06/07/2021 15:49:23 Operater 3037 active reset button
+ 8 06/07/2021 15:49:23 Operater 3037 active reset button
+ 9 06/07/2021 15:49:23 Operater 3037 active reset button
+ 10 06/07/2021 15:49:24 Operater 3035 active start button
+ 11 06/07/2021 16:04:22 Operater 3037 active reset button
+ 12 06/07/2021 16:04:22 Operater 3037 active reset button
+ 13 06/07/2021 16:04:22 Operater 3037 active reset button
+ 14 06/07/2021 16:04:23 Operater 3037 active reset button
+ 15 06/07/2021 16:04:23 Operater 3037 active reset button

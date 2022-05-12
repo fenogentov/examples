@@ -1,0 +1,21 @@
+machine_name ZLAB
+batch pq030621format3
+machine_number 900X905020
+operator Administrator
+product PQ030621FOR3
+target_dosing_weight Date printed:
+customer Manshev
+order 1
+machine_name ZLAB
+batch pq030621format3
+startdate 06/03/2021 17:22:22
+stopdate 06/03/2021 17:22:42
+opertime 0:00 Min
+stoptime 0:00 Min
+faulttime 0:00 Min
+goodprod 0 Cap.
+rejects 0 Cap.
+startloss 00 Cap.
+totalprod 0 Cap.
+proudtime 0:00 Min
+startuptime 0:00 Min

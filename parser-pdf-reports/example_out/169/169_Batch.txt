@@ -1,0 +1,21 @@
+machine_name ZLAB
+batch 169
+machine_number 900X905020
+operator Operater
+product pq070621for1
+target_dosing_weight Date printed:
+customer Pachkov
+order 1
+machine_name ZLAB
+batch 169
+startdate 06/07/2021 15:47:17
+stopdate 06/07/2021 16:04:28
+opertime 0:00 Min
+stoptime 0:00 Min
+faulttime 0:00 Min
+goodprod 0 Cap.
+rejects 76 Cap.
+startloss 00 Cap.
+totalprod 76 Cap.
+proudtime 0:00 Min
+startuptime 0:00 Min

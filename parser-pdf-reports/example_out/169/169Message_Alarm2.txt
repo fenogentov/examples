@@ -1,0 +1,57 @@
+06/07/2021 15:42:22 Operater 1005 Door and window open alarm  
+06/07/2021 15:42:22 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 15:42:22 Operater 1033 Batch not set  
+06/07/2021 15:43:07 Operater 3033 Create batch 444 pq07062021no1
+06/07/2021 15:47:07 Operater 3037 active reset button  
+06/07/2021 15:47:07 Operater 1005 Door and window open alarm  
+06/07/2021 15:47:07 Operater 1033 Batch not set  
+06/07/2021 15:47:07 Operater 1005 Door and window open alarm  
+06/07/2021 15:47:08 Operater 3037 active reset button  
+06/07/2021 15:47:08 Operater 1007 Inverter fault  
+06/07/2021 15:47:08 Operater 1033 Batch not set  
+06/07/2021 15:47:08 Operater 1007 Inverter fault  
+06/07/2021 15:47:08 Operater 3037 active reset button  
+06/07/2021 15:47:08 Operater 1033 Batch not set  
+06/07/2021 15:47:08 Operater 1007 Inverter fault  
+06/07/2021 15:47:08 Operater 1033 Batch not set  
+06/07/2021 15:47:08 Operater 3037 active reset button  
+06/07/2021 15:47:08 Operater 1007 Inverter fault  
+06/07/2021 15:47:08 Operater 1033 Batch not set  
+06/07/2021 15:47:09 Operater 3037 active reset button  
+06/07/2021 15:47:09 Operater 1007 Inverter fault  
+06/07/2021 15:47:09 Operater 1033 Batch not set  
+06/07/2021 15:47:16 Operater 3033 Create batch pq07062021no1 169
+06/07/2021 15:47:29 Operater 3035 active start button  
+06/07/2021 15:47:30 Operater 3037 active reset button  
+06/07/2021 15:47:30 Operater 3037 active reset button  
+06/07/2021 15:47:31 Operater 3037 active reset button  
+06/07/2021 15:47:31 Operater 3035 active start button  
+06/07/2021 15:49:00 Operater 3036 active stop button  
+06/07/2021 15:49:23 Operater 3037 active reset button  
+06/07/2021 15:49:23 Operater 3037 active reset button  
+06/07/2021 15:49:23 Operater 3037 active reset button  
+06/07/2021 15:49:24 Operater 3035 active start button  
+06/07/2021 15:50:24 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:00:47 Operater 1005 Door and window open alarm  
+06/07/2021 16:00:47 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:01:16 Operater 1003 Hand wheel spin out alarm  
+06/07/2021 16:01:16 Operater 1005 Door and window open alarm  
+06/07/2021 16:01:16 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:04:22 Operater 3037 active reset button  
+06/07/2021 16:04:22 Operater 1005 Door and window open alarm  
+06/07/2021 16:04:22 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:04:22 Operater 1005 Door and window open alarm  
+06/07/2021 16:04:22 Operater 3037 active reset button  
+06/07/2021 16:04:22 Operater 1007 Inverter fault  
+06/07/2021 16:04:22 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:04:22 Operater 1007 Inverter fault  
+06/07/2021 16:04:22 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:04:22 Operater 3037 active reset button  
+06/07/2021 16:04:23 Operater 1007 Inverter fault  
+06/07/2021 16:04:23 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:04:23 Operater 3037 active reset button  
+06/07/2021 16:04:23 Operater 1007 Inverter fault  
+06/07/2021 16:04:23 Operater 1009 Insufficient vacuum pressure  
+06/07/2021 16:04:23 Operater 3037 active reset button  
+06/07/2021 16:04:23 Operater 1007 Inverter fault  
+06/07/2021 16:04:23 Operater 1009 Insufficient vacuum pressure  
