@@ -7,6 +7,8 @@ import (
 	"net/http"
 	"strings"
 	"time"
+
+	"github.com/gorilla/mux"
 )
 
 type Server struct {
@@ -24,15 +26,15 @@ func NewServer(host, port string) *Server {
 }
 
 func main() {
-	mux := http.NewServeMux()
+	router := mux.NewRouter()
 	server := NewServer("localhost", "8181")
-	mux.HandleFunc("/create", server.createHandler)
-	mux.HandleFunc("/update", server.updateHandler)
-	mux.HandleFunc("/get", server.getHandler)
-	mux.HandleFunc("/delete", server.deleteHandler)
-	mux.HandleFunc("/", server.mainHandler)
+	router.HandleFunc("/create", server.createHandler).Methods("POST")
+	router.HandleFunc("/update", server.updateHandler).Methods("POST")
+	router.HandleFunc("/get", server.getHandler).Methods("GET")
+	router.HandleFunc("/delete", server.deleteHandler).Methods("DELETE")
+	router.HandleFunc("/", server.mainHandler).Methods("GET")
 
-	err := http.ListenAndServe("localhost:8181", mux)
+	err := http.ListenAndServe("localhost:8181", router)
 	if err != nil {
 		fmt.Println(err)
 	}
