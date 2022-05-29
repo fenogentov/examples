@@ -5,6 +5,9 @@ import (
 	"go/ast"
 	"go/parser"
 	"go/token"
+	"log"
+	"os"
+	"path/filepath"
 )
 
 // перевести на мап[тип]индекс
@@ -25,17 +28,45 @@ var correctOrder = []string{
 }
 
 func main() {
+	err := filepath.Walk(".",
+		func(path string, info os.FileInfo, err error) error {
+			if err != nil {
+				return err
+			}
+			if !info.IsDir() && filepath.Ext(path) == ".go" {
+				find(path)
+			}
+			return nil
+		})
+	if err != nil {
+		log.Println(err)
+	}
+
+}
+
+func indexSlice(typeCase string) int {
+	for idx, tp := range correctOrder {
+		if tp == typeCase {
+			return idx
+		}
+	}
+
+	return -1
+}
+
+func find(path string) {
+
 	var idx int
 
-	goFile := "test_data/example.go"
+	//	goFile := "test_data/example.go"
 
 	fset := token.NewFileSet()
-	f, err := parser.ParseFile(fset, goFile, nil, parser.ParseComments)
+	f, err := parser.ParseFile(fset, path, nil, parser.ParseComments)
 	if err != nil {
 		panic(err)
 	}
 
-	ast.Print(fset, f)
+	// ast.Print(fset, f)
 
 	ast.Inspect(f, func(n ast.Node) bool {
 		switch n := n.(type) {
@@ -62,8 +93,8 @@ func main() {
 
 					iSl := indexSlice(name)
 					if iSl < idx {
-						fmt.Printf("%+v\n", n.Body.List)
-						//	fmt.Println("неправильный порядок:", f, i, name, n.Switch)
+						//fmt.Printf("%+v\n", n.Body.List)
+						fmt.Println("неправильный порядок switch:", fset.Position(n.Switch))
 					}
 					idx = iSl
 
@@ -73,14 +104,4 @@ func main() {
 
 		return true
 	})
-}
-
-func indexSlice(typeCase string) int {
-	for idx, tp := range correctOrder {
-		if tp == typeCase {
-			return idx
-		}
-	}
-
-	return -1
 }
