@@ -16,14 +16,14 @@ var correctOrder = []string{
 	"Array",
 	"float64",
 	"string",
-	"types.Binary",
-	"types.ObjectID",
+	"Binary",
+	"ObjectID",
 	"bool",
 	"time.Time",
-	"types.NullType",
-	"types.Regex",
+	"NullType",
+	"Regex",
 	"int32",
-	"types.Timestamp",
+	"Timestamp",
 	"int64",
 }
 
@@ -41,7 +41,6 @@ func main() {
 	if err != nil {
 		log.Println(err)
 	}
-
 }
 
 func indexSlice(typeCase string) int {
@@ -92,9 +91,11 @@ func find(path string) {
 					}
 
 					iSl := indexSlice(name)
+					if iSl == -1 {
+						continue
+					}
 					if iSl < idx {
-						//fmt.Printf("%+v\n", n.Body.List)
-						fmt.Println("неправильный порядок switch:", fset.Position(n.Switch))
+						fmt.Println("неправильный порядок switch:", fset.Position(n.Switch), name)
 					}
 					idx = iSl
 
