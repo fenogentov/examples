@@ -1,4 +1,4 @@
-module examples/go_analysis
+module examples/mylinter
 
 go 1.18
 
