@@ -1,6 +1,7 @@
-package analyzer
+package main
 
 import (
+	"log"
 	"os"
 	"path/filepath"
 	"testing"
@@ -9,11 +10,10 @@ import (
 )
 
 func TestAll(t *testing.T) {
-	wd, err := os.Getwd()
+	path, err := os.Getwd()
 	if err != nil {
-		t.Fatalf("Failed to get wd: %s", err)
+		log.Panicln(err)
 	}
-
-	testdata := filepath.Join(filepath.Dir(filepath.Dir(wd)), "testdata")
+	testdata := filepath.Join(path, "testdata")
 	analysistest.Run(t, testdata, Analyzer, "p")
 }
