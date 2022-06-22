@@ -12,6 +12,17 @@ import (
 // go vet -vettool=$(which check-switch) ./...
 
 // orderTypes is preferred order of the types in the switch.
+//
+// Document == *Document
+//
+// case int64
+// case int32
+// ==
+// case int64, unt32
+//
+// Document == types.Document == newtypes.Document
+//
+// default not checked
 var orderTypes = map[string]int{
 	"Document":  0,
 	"Array":     1,
@@ -51,6 +62,7 @@ func run(pass *analysis.Pass) (interface{}, error) {
 					if len(el.(*ast.CaseClause).List) < 1 {
 						continue
 					}
+
 					firstTypeCase := el.(*ast.CaseClause).List[0]
 					switch firstTypeCase := firstTypeCase.(type) {
 					case *ast.StarExpr:
@@ -58,6 +70,10 @@ func run(pass *analysis.Pass) (interface{}, error) {
 							name = sexp.Sel.Name
 							// name = fmt.Sprintf("%s.%s", sexp.X.(*ast.Ident).Name, sexp.X.(*ast.Ident).Name)
 						}
+						if sexp, ok := firstTypeCase.X.(*ast.Ident); ok {
+							name = sexp.Name
+						}
+
 					case *ast.SelectorExpr:
 						name = fmt.Sprintf("%s.%s", firstTypeCase.X, firstTypeCase.Sel.Name)
 
@@ -81,6 +97,10 @@ func run(pass *analysis.Pass) (interface{}, error) {
 									name = sexp.Sel.Name
 									// name = fmt.Sprintf("%s.%s", sexp.X.(*ast.Ident).Name, sexp.X.(*ast.Ident).Name)
 								}
+								if sexp, ok := cs.X.(*ast.Ident); ok {
+									name = sexp.Name
+								}
+
 							case *ast.SelectorExpr:
 								name = fmt.Sprintf("%s.%s", cs.X, cs.Sel.Name)
 
